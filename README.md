@@ -235,6 +235,14 @@ This uses Bright Data's **Web Scraper API** with one LinkedIn dataset:
 
 Pricing depends on your Bright Data plan. A typical run with 50 profiles costs roughly a few cents.
 
+## Need a custom scraper?
+
+If you need different LinkedIn profile fields or a discovery method this tool does not offer, you can build your own with [Bright Data's Scraper Studio](https://brightdata.com/products/scraper-studio). Describe the LinkedIn data you need in plain English, and Scraper Studio generates a production-ready scraper with your exact output schema. It includes self-healing, so when LinkedIn updates its profile layout, you describe the fix and push a patch in minutes instead of rewriting extraction code.
+
+## Free tier
+
+Every Bright Data account comes with 5,000 free credits per month (roughly $7.50 in value). Credits reset on the first of each month, and you can start without a credit card. That is enough to enrich a real batch of LinkedIn profiles, verify the professional data fields, and decide whether this tool fits your lead enrichment workflow.
+
 ## Disclaimer
 
 Some links in this README are affiliate links. If you sign up for Bright Data through them, you may get extra credits on your account, and I may receive a small commission. This doesn't cost you anything extra - it helps support the project.
